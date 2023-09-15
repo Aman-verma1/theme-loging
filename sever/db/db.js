@@ -19,32 +19,6 @@ module.exports = Connection;
 
 // const mysql = require('mysql');
 
-// const connection = mysql.createConnection({
-// host: 'localhost',
-// port: 3306,
-// database :"aman",
-// user:'root',
-// password : 'aman'
-
-// });
-
-// connection.connect(function(error){
-//   if(error){
-//     console.log('error on connection db');
-//   }
-//   else{
-//     console.log('connected to db');
-//   }
-// })
-
-// const mysql2 = require('mysql2')
-
-// const connection = mysql2.createConnection({
-//   host: "localhost",
-//   user: "root",
-//   password: "aman",
-//   database: "aman"
-// })
 
 // // Connecting to database
 // connection.connect(function (err) {
